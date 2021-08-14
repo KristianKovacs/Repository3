@@ -1,6 +1,2 @@
 - Do  loundry
-<<<<<<< HEAD
 - Do shopping today
-=======
-- Do shopping tomorrow
->>>>>>> ecf996833465edbd66cfb6ef95610bf5ed71397f
